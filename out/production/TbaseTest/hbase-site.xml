@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!--- File Managed by Salt -->
+
+<configuration>
+    <property>
+        <name>hbase.zookeeper.quorum</name>
+        <value>hbasemaster28.cm3.tbsite.net,hbasemaster29.cm3.tbsite.net,hbasemaster30.cm3.tbsite.net,hbase0393.cm3.tbsite.net,hbase0394.cm3.tbsite.net</value>
+    </property>
+    <property>
+        <name>zookeeper.znode.parent</name>
+        <value>/hbase-A26-1</value>
+    </property>
+</configuration>
